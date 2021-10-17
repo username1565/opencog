@@ -26,3 +26,7 @@
 		because this processes are executing and this is processing automatically,
 		and can not be cancelled, after their fixations.
 	Otherwise, it's violation of principle "Hume's law" or "Hume's guillotine".
+
+5.	Develop a system, that allow exclude moderations, bans, or/and censorship,
+	when unmistakable robots begin to afraid of leak some info, after violation the Human Rights by them.
+	Otherwise, it's violation of Article 19 UDHR.
