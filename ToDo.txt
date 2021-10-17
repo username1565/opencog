@@ -30,3 +30,6 @@
 5.	Develop a system, that allow exclude moderations, bans, or/and censorship,
 	when unmistakable robots begin to afraid of leak some info, after violation the Human Rights by them.
 	Otherwise, it's violation of Article 19 UDHR.
+
+6.	Develop a system to exclude the possibility of applying double standards, by unmistakable robots.
+	Otherwise, such technologies are a dual-purpose product, and usage of this can be dual-manipulated by them on each step, and this is unpredictable.
